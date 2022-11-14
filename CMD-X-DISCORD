@@ -1,0 +1,20 @@
+--[[----------------------------------------------------------------
+|                ▄▀▄▄▄▄   ▄▀▀▄ ▄▀▄  ▄▀▀█▄▄   ▄▀▀▄  ▄▀▄             |
+|               █ █    ▌ █  █ ▀  █ █ ▄▀   █ █    █   █             |
+|              ▐ █      ▐  █    █ ▐ █    █ ▐     ▀▄▀               |
+|                █        █    █    █    █      ▄▀ █               |
+|               ▄▀▄▄▄▄▀ ▄▀   ▄▀    ▄▀▄▄▄▄▀     █  ▄▀               |
+|              █     ▐  █    █    █     ▐    ▄▀  ▄▀                |
+|              ▐        ▐    ▐    ▐         █    ▐                 |
+|               ▐        ▐    ▐    ▐         █    ▐                |
+|------------------------------------------------------------------|
+|    Credits:    | Binds & Info:                                   |
+|    EVOLVE#0001 | U                         Open and close output |
+|    SLUMP#7807  | RShift                          Fill suggestion |
+|    $ick.#4669  | ;                               Focus on CMDBar |
+| -------------- | Q                                Open and close |
+|                | LShift+Bksp                        Clear CMDbar |
+|                |                                                 |
+|                | .cmds                             List commands |
+----------------------------------------------------------------]]--
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EVOLVE777/CMD-X/main/CMD-X'))()
